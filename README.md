@@ -10,7 +10,7 @@ I was inspired to create this after learning about the idea of a birth lottery i
 <p>I used data from the World Bank API, including GDP per capita, life expectancy at birth, child mortality rate, gini index, and GDP per capita. The most challenging part was dealing with inconsistent data coverage across countries and years and missing values for smaller nations. Learning how to work with complex JSONs and clean data was an excersize in patience and problem solving!</p>
 
 <p align="center">
- <img src="birth_lottery_demo.gif" width="400">
+ <img src="birth_lottery/Screenshots/birth_lottery_demo.gif" width="400">
 </p>
 
 
