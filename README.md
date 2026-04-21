@@ -1,5 +1,5 @@
-# Birth Lottery
-<h1>How much of your life comes down to geographic luck? If you were one of the 251 people born this minute, where would you land? What opportunities would you get?</h1>
+# 🌎 Birth Lottery
+<h2>How much of your life comes down to geographic luck? If you were one of the 251 people born this minute, where would you land? What opportunities would you get?</h2>
 
 <p>Spin the wheel, land somewhere on Earth, see what that means for your life. Birth Lottery is an interactive iOS app that simulates this idea. With a simple spin, you’re randomly assigned a country of birth based on real-world population data, then shown key statistics that reflect what life might look like there. Users are given an opportunity to learn more about effective altruism and donate to Giving What We Can is a global nonprofit that promotes effective giving by helping people donate to charities that do the most good.</p>
 
